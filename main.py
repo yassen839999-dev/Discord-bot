@@ -251,5 +251,5 @@ async def on_ready():
     print(f'✅ Bot is ready! {bot.user}')
 
 keep_alive()
-bot.run("MTU0ODM3ODIyMjUxNTcyNDI4OA.GoxuIo.huJBPOk9rb8mStuZ7CqJgyFhwMrIWV_1ouszT4")
+bot.run("MTU0ODM3ODIyMjUxNTcyNDI4OA.GZj5f2.jsMK2U6a7ZJDPSQ01U-8BIy8uBGwbJca3BGO9s")
 
